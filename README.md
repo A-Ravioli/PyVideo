@@ -97,12 +97,7 @@ VideoEditorGUI/
 │   └── utils.py
 │
 ├── tests/
-│   ├── __init__.py
-│   ├── test_video_transcoder.py
-│   ├── test_audio_transcoder.py
-│   ├── test_subtitle_handler.py
-│   ├── test_metadata.py
-│   └── test_batch_processor.py
+│   └── test.py
 │
 ├── video_editor_gui.py
 ├── setup.py
